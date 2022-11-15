@@ -1,0 +1,17 @@
+C:\Users\nqwk\RiderProjects\compSys\CompSys\bin\Debug\netcoreapp3.1\CompSys.exe
+C:\Users\nqwk\RiderProjects\compSys\CompSys\bin\Debug\netcoreapp3.1\CompSys.deps.json
+C:\Users\nqwk\RiderProjects\compSys\CompSys\bin\Debug\netcoreapp3.1\CompSys.runtimeconfig.json
+C:\Users\nqwk\RiderProjects\compSys\CompSys\bin\Debug\netcoreapp3.1\CompSys.runtimeconfig.dev.json
+C:\Users\nqwk\RiderProjects\compSys\CompSys\bin\Debug\netcoreapp3.1\CompSys.dll
+C:\Users\nqwk\RiderProjects\compSys\CompSys\bin\Debug\netcoreapp3.1\CompSys.pdb
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.csproj.AssemblyReference.cache
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\ComputingSystem.FrmDetailed.resources
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.csproj.GenerateResource.cache
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.AssemblyInfoInputs.cache
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.AssemblyInfo.cs
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.csproj.CoreCompileInputs.cache
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.csproj.CopyComplete
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.dll
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.pdb
+C:\Users\nqwk\RiderProjects\compSys\CompSys\obj\Debug\netcoreapp3.1\CompSys.genruntimeconfig.cache
